@@ -15,4 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "MultiModuleGradleManagement"
 include(":app")
- 
+include(":books-datasource")
+include(":books-ui")
